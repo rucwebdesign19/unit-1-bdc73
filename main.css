@@ -1,0 +1,24 @@
+ p {
+
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+h1 {
+    font: roboto-condensed;
+    font-size: 24px
+    line-height: normal;
+}
+
+h2 {
+    font: roboto-condensed;
+    font-size: 22px
+    line-height: normal;
+}
+
+@media only screen and
+{
+  min-width: 600px
+  min-width: 900px
+}
