@@ -17,8 +17,17 @@ h2 {
     line-height: normal;
 }
 
-@media only screen and
-{
-  min-width: 600px
-  min-width: 900px
+@media only screen and (min-width: 600px) {
+class.chapter {
+   max-width: 75vw;
+  min-width: 900px max-width: 50vw
+}
+@media only screen and (min-width: 900px)
+class.chapter {
+   max-width: 50vw;
+ }
+}
+article {
+  height: 75vh;
+  background-image: ("jane.jpg");
 }
